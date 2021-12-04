@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clauz07
-- 👀 I’m interested in the Nintendo hacking, in particular in the 3DS scene
-- 🌱 I’m currently learning GM9 Scripting
+- 👀 I’m interested in Discord Bot
+- 🌱 I’m currently learning Snake-Bot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
